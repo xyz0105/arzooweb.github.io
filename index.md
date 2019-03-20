@@ -1,4 +1,4 @@
-# AR FOR THE NASHVILLE ZOO
+# Nashville Zoo Scavenger Hunt
 
 Welcome to the website for the Nashville Zoo's App! Here you'll find information and features of the app!
 
