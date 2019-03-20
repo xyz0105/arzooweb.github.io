@@ -1,7 +1,9 @@
 # AR FOR THE NASHVILLE ZOO
 
-Welcome to the zoo app website
+Welcome to the website for the Nashville Zoo's App! Here you'll find information about and features of our app!
+
+_____
 
 [Visit the Nashville Zoo's Website Here](https://www.nashvillezoo.org/) 
 
-![Alt text](nashvillezoonsh_1200xx558-315-41-0 (1).jpg) 
+ 
