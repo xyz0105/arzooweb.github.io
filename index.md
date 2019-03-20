@@ -1,2 +1,2 @@
 AR FOR THE NASHVILLE ZOO
-Welcome to the zoo ap website
+Welcome to the zoo app website
