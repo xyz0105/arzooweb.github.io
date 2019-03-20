@@ -1,6 +1,6 @@
 # AR FOR THE NASHVILLE ZOO
 
-Welcome to the website for the Nashville Zoo's App! Here you'll find information about and features of our app!
+Welcome to the website for the Nashville Zoo's App! Here you'll find information and features of the app!
 
 _____
 
