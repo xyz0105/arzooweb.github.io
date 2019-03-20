@@ -1,6 +1,6 @@
 # **Nashville Zoo Scavenger Hunt**
 
-### A Zoo Adventure You've Never Seen Before!
+## A Zoo Adventure You've Never Seen Before!
 
 _____
 
