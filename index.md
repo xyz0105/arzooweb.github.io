@@ -1,6 +1,6 @@
 # **Nashville Zoo Scavenger Hunt**
 
-Welcome to the website for the Nashville Zoo's App! Here you'll find information and features of the app!
+A Zoo Adventure You've Never Seen Before!
 
 _____
 
