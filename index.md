@@ -1,9 +1,13 @@
 # **Nashville Zoo Scavenger Hunt**
-
 ## A Zoo Adventure You've Never Seen Before!
 
-```With the Nashville Zoo Scavenger Hunt, you'll be able to have a whole new zoo experience. Travel around the zoo and quiz yourself on what you've learned. Experience the animals in a whole new way with Augmented Reality.```
-```Try scanning the signs of animals around the zoo! If the sign has the scientific name of the animal on it (like Potamochoerus porcus), the app should recognize the sign when you scan it and ask you questions about the animal. Answer the questions to score points and unlock portraits in the progress gallery!```
+```
+With the Nashville Zoo Scavenger Hunt, you'll be able to have a whole new zoo experience.
+Travel around the zoo and quiz yourself on what you've learned!
+Experience the animals in a whole new way with Augmented Reality!
+```
+
+Try scanning the signs of animals around the zoo! If the sign has the scientific name of the animal on it (like *Potamochoerus porcus*), the app should recognize the sign when you scan it and ask you questions about the animal. Answer the questions to score points and unlock portraits in the progress gallery!
 
 Tips for if the app isn't recognizing the sign:
 1. Make sure that the app says "Scanning..." at the top above your camera view.
@@ -14,5 +18,19 @@ Tips for if the app isn't recognizing the sign:
 6. Try tilting your camera around a bit while focusing on the sign. Straight forwards should work best, but the angle may be a little off.
 7. Consult someone else! Ask a member of the SSMV Zoo App group or the zoo staff.
 
-[Visit the Nashville Zoo's Website Here](https://www.nashvillezoo.org/) 
+Tap on an unlocked gallery portrait with a **green** border to activate the Augmented Reality Projector:tm:. Tap on the camera screen's view of the ground to place that animal in 3D space! Walk around the animal to view it from multiple perspectives.
 
+[Visit the Nashville Zoo's Website Here](https://www.nashvillezoo.org/)
+
+Made by the SSMV Zoo App group:
+- Lindsay Damon
+- Trent Jones
+- Garrett Scott
+- Xiyan Zhu
+
+Acknowledgements:
+- Haley Adams
+- Nicole Hutchins
+- Dr. Angela Eeds
+- Mrs. Amanda Dixon
+- Dr. Menton DeWeese (if/when she checks our survey questions)
