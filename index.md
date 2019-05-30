@@ -18,6 +18,8 @@ Tips for if the app isn't recognizing the sign:
 
 Tap on an unlocked gallery portrait with a **green** border to activate the Augmented Reality Projector:tm:. Tap on the camera screen's view of the ground to place that animal in 3D space! Walk around the animal to view it from multiple perspectives.
 
+If you have issues placing animals with the Augmented Reality Projector:tm:, check if your mobile device is on [this list.](https://library.vuforia.com/articles/Solution/vuforia-fusion-supported-devices.html) Incompatible devices will still be able to use all other features of the app, but unable to project the animals. If your device is on the list and you continue experiencing issues, please consult a member of the SSMV Zoo App group or the zoo staff.
+
 [Visit the Nashville Zoo's Website Here](https://www.nashvillezoo.org/)
 
 Made by the SSMV Zoo App group:
