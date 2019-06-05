@@ -34,3 +34,6 @@ Acknowledgements:
 - Dr. Angela Eeds
 - Mrs. Amanda Dixon
 
+To contact us:
+email lindsay.c.damon@vanderbilt.edu
+
