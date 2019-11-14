@@ -1,9 +1,9 @@
 # Nashville Zoo Scavenger Hunt
 ## A Zoo Adventure You've Never Seen Before!
 
-**With the Nashville Zoo Scavenger Hunt, you'll be able to have a whole new zoo experience. \
-Travel around the zoo and quiz yourself on what you've learned! \
-Experience the animals in a whole new way with Augmented Reality!**
+**With the Nashville Zoo Scavenger Hunt, you'll be able to have a whole new zoo experience.**
+**Travel around the zoo and quiz yourself on what you've learned!**
+**Experience the animals in a whole new way with Augmented Reality!**
 
 Try scanning the signs of animals around the zoo! If the sign has the scientific name of the animal on it (like *Potamochoerus porcus*), the app should recognize the sign when you scan it and ask you questions about the animal. Answer the questions to score points and unlock portraits in the progress gallery!
 
